@@ -23,7 +23,7 @@ import platform
 
 
 ################## YOUR CODE GOES HERE ########################################
-#   Created by Zixuan Zhu 29065607
+#   Created by Zixuan Zhu 
 
 class robbie():
     
